@@ -505,7 +505,7 @@ const adult = [
   'yuki.la',
   'zo.ee',
   'zohopublic.com',
-  'zoosexfarm.com',
+  'zoosexfarm.com'
 ]
 
 module.exports = {
